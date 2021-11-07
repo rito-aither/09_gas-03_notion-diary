@@ -1,0 +1,4 @@
+{
+    "scriptId": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx", //デプロイ対象のIDを手動で
+    "rootDir": "./gas"
+}

@@ -1,0 +1,9 @@
+version: "3"
+services:
+  gas-build:
+    build: .
+    image: gas
+    container_name: "gas-notion"
+    tty: true
+    volumes:
+      - "./src:/opt/src"
